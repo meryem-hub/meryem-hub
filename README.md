@@ -22,4 +22,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meryem-hub&show_icons=true&locale=en&layout=compact" alt="meryem-hub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meryem-hub&" alt="meryem-hub" /></p>
