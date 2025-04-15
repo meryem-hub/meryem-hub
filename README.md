@@ -6,17 +6,17 @@
     <h3>Full-Stack Developer | Ethiopia</h3>
   </div>
   
-  <!-- Animated View Counter -->
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=meryem-hub&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile views"/>
     <img src="https://img.shields.io/badge/Dynamic%20Coder-Level%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow" alt="Coding Level"/>
   </p>
 </div>
 
-<!-- Interactive Grid Layout -->
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 30px;">
 
-  <!-- About Me Card -->
+
   <div class="card">
     <h2>🌟 About Me</h2>
     <p>I build beautiful, functional web experiences that users love. Currently specializing in:</p>
@@ -75,12 +75,8 @@
   </div>
 </div>
 
-<!-- Contribution Snake -->
-<div align="center" style="margin-top: 40px;">
-  <img src="https://raw.githubusercontent.com/meryem-hub/meryem-hub/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%">
-</div>
 
-<!-- Custom Footer -->
+
 <div align="center" style="margin-top: 30px; font-size: 0.9em; color: #aaa;">
   <p>"First, solve the problem. Then, write the code." - John Johnson</p>
   <p>Made with ❤️ in Ethiopia</p>
