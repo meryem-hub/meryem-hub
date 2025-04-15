@@ -48,19 +48,13 @@
         <h4>Tools</h4>
         <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
         <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
       </div>
     </div>
   </div>
 
-  <!-- Stats Card -->
-  <div class="card">
-    <h2>📊 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=meryem-hub&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meryem-hub&theme=radical" alt="GitHub Streak" style="width: 100%; margin-top: 10px;">
-  </div>
+>
 
-  <!-- Contact Card -->
+ 
   <div class="card">
     <h2>📫 Let's Connect</h2>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
