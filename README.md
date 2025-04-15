@@ -1,24 +1,28 @@
-<h1 align="center">Hi, I'm Meryem</h1>
-<h3 align="center">From Ethiopia,I Build Beautiful Website,Crafting Both Frontend and Backend.</h3>
+# 🚀 Meryem Ebrahim | Full-Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meryem-hub&label=Profile%20views&color=0e75b6&style=flat" alt="meryem-hub" /> </p>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/236x/df/42/2e/df422ec71491d08562f80d87440f6fc0.jpg">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&height=80&lines=✨+Hello+World%2C+I'm+Meryem+✨;💻+Full-Stack+Developer;🌍+From+Ethiopia;🚀+Building+Digital+Experiences;🎨+Pixel+Perfectionist" alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **meryemebrahim.46@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meryem-ebrahim-05219a323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meryem-ebrahim-05219a323" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ሂላልtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ሂላልtube" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/meryem_ebra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meryem_ebra" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=meryem-hub&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="meryem-hub" /> 
+  <img src="https://img.shields.io/badge/ETHIOPIA-%F0%9F%87%AA%F0%9F%87%B9-blue?style=for-the-badge" alt="Ethiopia" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="right">
+  <img src="https://raw.githubusercontent.com/meryem-hub/meryem-hub/output/github-contribution-grid-snake.svg" alt="Snake animation" width="500"/>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meryem-hub&show_icons=true&locale=en&layout=compact" alt="meryem-hub" /></p>
-
+## 🔥 About Me
+```python
+class Meryem:
+    def __init__(self):
+        self.name = "Meryem Ebrahim"
+        self.role = "Full-Stack Developer"
+        self.location = "Ethiopia"
+        self.passion = "Creating beautiful, functional web experiences"
+        self.current_learning = ["Next.js", "Three.js", "WebGL"]
+        self.ask_me_about = ["React", "UI/UX Design", "Backend Architecture"]
+    
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's connect :)")
