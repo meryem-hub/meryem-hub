@@ -1,28 +1,138 @@
-# 🚀 Meryem Ebrahim | Full-Stack Developer
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&height=80&lines=✨+Hello+World%2C+I'm+Meryem+✨;💻+Full-Stack+Developer;🌍+From+Ethiopia;🚀+Building+Digital+Experiences;🎨+Pixel+Perfectionist" alt="Typing SVG" />
+  <!-- Animated Gradient Header -->
+  <style>
+    .gradient-text {
+      background: linear-gradient(90deg, #ff4d4d, #f9cb28, #ff4d4d);
+      background-size: 200% auto;
+      color: transparent;
+      -webkit-background-clip: text;
+      background-clip: text;
+      animation: gradient 3s linear infinite;
+    }
+    @keyframes gradient {
+      0% { background-position: 0% center; }
+      100% { background-position: 200% center; }
+    }
+    .ethiopia-flag {
+      position: relative;
+      display: inline-block;
+    }
+    .ethiopia-flag::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(90deg, 
+        rgba(0, 122, 94, 0.3) 33%, 
+        rgba(250, 224, 66, 0.3) 33% 66%, 
+        rgba(221, 0, 27, 0.3) 66%);
+      border-radius: 50%;
+      mix-blend-mode: overlay;
+    }
+    .card {
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 15px;
+      padding: 20px;
+      margin: 10px;
+      backdrop-filter: blur(5px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      transition: transform 0.3s;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+    }
+  </style>
+
+  <h1 class="gradient-text">Meryem Ebrahim</h1>
+  
+  <div class="ethiopia-flag">
+    <h3>Full-Stack Developer | Ethiopia</h3>
+  </div>
+  
+  <!-- Animated View Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=meryem-hub&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile views"/>
+    <img src="https://img.shields.io/badge/Dynamic%20Coder-Level%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow" alt="Coding Level"/>
+  </p>
 </div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=meryem-hub&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" alt="meryem-hub" /> 
-  <img src="https://img.shields.io/badge/ETHIOPIA-%F0%9F%87%AA%F0%9F%87%B9-blue?style=for-the-badge" alt="Ethiopia" />
-</p>
+<!-- Interactive Grid Layout -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 30px;">
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/meryem-hub/meryem-hub/output/github-contribution-grid-snake.svg" alt="Snake animation" width="500"/>
+  <!-- About Me Card -->
+  <div class="card">
+    <h2>🌟 About Me</h2>
+    <p>I build beautiful, functional web experiences that users love. Currently specializing in:</p>
+    <ul>
+      <li>React & Next.js applications</li>
+      <li>Responsive UI/UX design</li>
+      <li>Node.js backend systems</li>
+    </ul>
+    <p>When I'm not coding, I enjoy contributing to open source and mentoring new developers.</p>
+  </div>
+
+  <!-- Tech Stack Card -->
+  <div class="card">
+    <h2>🛠 Tech Stack</h2>
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+      <div>
+        <h4>Frontend</h4>
+        <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript">
+      </div>
+      <div>
+        <h4>Backend</h4>
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+      </div>
+      <div>
+        <h4>Tools</h4>
+        <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
+      </div>
+    </div>
+  </div>
+
+  <!-- Stats Card -->
+  <div class="card">
+    <h2>📊 GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=meryem-hub&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meryem-hub&theme=radical" alt="GitHub Streak" style="width: 100%; margin-top: 10px;">
+  </div>
+
+  <!-- Contact Card -->
+  <div class="card">
+    <h2>📫 Let's Connect</h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <a href="https://linkedin.com/in/meryem-ebrahim-05219a323" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="mailto:meryemebrahim.46@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+      </a>
+      <a href="https://www.youtube.com/c/@ሂላልtube" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube">
+      </a>
+      <a href="https://www.leetcode.com/meryem_ebra" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode">
+      </a>
+    </div>
+    <p>Always open to interesting projects and collaborations!</p>
+  </div>
 </div>
 
-## 🔥 About Me
-```python
-class Meryem:
-    def __init__(self):
-        self.name = "Meryem Ebrahim"
-        self.role = "Full-Stack Developer"
-        self.location = "Ethiopia"
-        self.passion = "Creating beautiful, functional web experiences"
-        self.current_learning = ["Next.js", "Three.js", "WebGL"]
-        self.ask_me_about = ["React", "UI/UX Design", "Backend Architecture"]
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect :)")
+<!-- Contribution Snake -->
+<div align="center" style="margin-top: 40px;">
+  <img src="https://raw.githubusercontent.com/meryem-hub/meryem-hub/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%">
+</div>
+
+<!-- Custom Footer -->
+<div align="center" style="margin-top: 30px; font-size: 0.9em; color: #aaa;">
+  <p>"First, solve the problem. Then, write the code." - John Johnson</p>
+  <p>Made with ❤️ in Ethiopia</p>
+</div>
