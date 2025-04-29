@@ -79,5 +79,4 @@
 
 <div align="center" style="margin-top: 30px; font-size: 0.9em; color: #aaa;">
   <p>"First, solve the problem. Then, write the code." - John Johnson</p>
-  <p>Made with ❤️ in Ethiopia</p>
 </div>
