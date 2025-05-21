@@ -54,7 +54,7 @@
         <img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?logo=gmail" alt="Email">
       </a>
       <a href="https://www.youtube.com/@ሂላልTube" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-Tutorials-FF0000?logo=youtube" alt="YouTube">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube" alt="YouTube">
       </a>
       <a href="https://www.leetcode.com/meryem_ebra" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-Problem_Solver-FFA116?logo=leetcode" alt="LeetCode">
