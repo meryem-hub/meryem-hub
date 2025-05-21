@@ -5,7 +5,7 @@
 </div>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=meryem-hub&label=Digital+Footprints&color=ff69b4&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=meryem-hub&label=Profile views &color=ff69b4&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Problem_Solver-100%25_Guaranteed-blueviolet" alt="Problem Solver"/>
 </p>
 
