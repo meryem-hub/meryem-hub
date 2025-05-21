@@ -1,7 +1,7 @@
 <h1 class="gradient-text">Meryem Ebrahim</h1>
 
 <div class="ethiopia-flag">
-  <h3>Full-Stack Developer | React & Node Specialist | Ethiopia</h3>
+  <h3>Full-Stack Developer | Ethiopia</h3>
 </div>
 
 <p>
@@ -12,7 +12,6 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 30px;">
 
   <div class="card">
-    <h2>🧑‍💻 Developer Profile</h2>
     <p>I architect digital solutions that balance technical excellence with user delight. Core competencies:</p>
     <ul>
       <li>React/Next.js frontends with pixel-perfect execution</li>
@@ -27,21 +26,20 @@
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
       <div>
         <h4>Frontend</h4>
-        <img src="https://img.shields.io/badge/React-Expert-61DAFB?logo=react" alt="React Expert">
-        <img src="https://img.shields.io/badge/Next.js-Pro-000000?logo=next.js" alt="Next.js Pro">
-        <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?logo=typescript" alt="TypeScript">
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react" alt="React Expert">
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js" alt="Next.js Pro">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript" alt="TypeScript">
       </div>
       <div>
         <h4>Backend</h4>
-        <img src="https://img.shields.io/badge/Node.js-Senior-339933?logo=node.js" alt="Node.js">
-        <img src="https://img.shields.io/badge/Express-Professional-000000?logo=express" alt="Express">
-        <img src="https://img.shields.io/badge/API_Design-Specialist-FF6B6B" alt="API Design">
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js" alt="Node.js">
+        <img src="https://img.shields.io/badge/Express-000000?logo=express" alt="Express">
+        <img src="https://img.shields.io/badge/API_Design-FF6B6B" alt="API Design">
       </div>
       <div>
         <h4>DevOps & Tools</h4>
-        <img src="https://img.shields.io/badge/Git-Version_Control_Pro-F05032?logo=git" alt="Git">
-        <img src="https://img.shields.io/badge/VSCode-Power_User-007ACC?logo=visual-studio-code" alt="VS Code">
-        <img src="https://img.shields.io/badge/Docker-Container_Expert-2496ED?logo=docker" alt="Docker">
+        <img src="https://img.shields.io/badge/Git-Version_Control-F05032?logo=git" alt="Git">
+        <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code" alt="VS Code">
       </div>
     </div>
   </div>
