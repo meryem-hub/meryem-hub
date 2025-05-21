@@ -22,7 +22,7 @@
   </div>
 
   <div class="card">
-    <h2>🛠️ Technical Arsenal</h2>
+<h2>✨ Core Technologies</h2>
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
       <div>
         <h4>Frontend</h4>
