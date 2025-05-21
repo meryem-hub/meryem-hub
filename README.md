@@ -1,7 +1,7 @@
 <h1 class="gradient-text">Meryem Ebrahim</h1>
 
 <div class="ethiopia-flag">
-  <h3>Code Alchemist | Digital Craftsman | Ethiopia</h3>
+  <h3>Web Developer | Ethiopia</h3>
 </div>
 
 <p>
