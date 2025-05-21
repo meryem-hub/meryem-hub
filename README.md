@@ -64,6 +64,4 @@
   </div>
 </div>
 
-<div align="center" style="margin-top: 30px; font-size: 0.9em; color: #aaa;">
-  <p>"Building tomorrow's web, one component at a time."</p>
-</div>
+
